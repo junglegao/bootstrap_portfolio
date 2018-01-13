@@ -1,0 +1,10 @@
+.container {
+  max-width: 960px;
+}
+* {font-family: 'Lato', sans-serif;}
+h1 {font-size: 60px; font-weight: 300; color: #2d3c49;}
+h2 {font-size: 40px; font-weight: 300; color: #7d97ad;}
+h3 {font-size: 24px; font-weight: 400;}
+hr {border-top: 4px solid #7d97ad;}
+.header {display: flex; align-content: center;}
+.logo-pic {display: flex; align-items: center;}
