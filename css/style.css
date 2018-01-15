@@ -1,6 +1,6 @@
-.container {
+/*.container {
   max-width: 960px;
-}
+}*/
 * {font-family: 'Lato', sans-serif;}
 h1 {font-size: 60px; font-weight: 300; color: #2d3c49;}
 h2 {font-size: 40px; font-weight: 300; color: #7d97ad;}
@@ -12,3 +12,8 @@ hr {border-top: 4px solid #7d97ad;}
   justify-content: space-between;
 }
 .logo-pic {display: flex; align-items: center;}
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+}
